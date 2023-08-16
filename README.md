@@ -43,11 +43,14 @@ This application allows users to submit claims for reimbursements related to bus
 ## 🌐 Using the Application
 
 1. **Access the Application**
+<img width="360" alt="user" src="https://github.com/BialasPiotr/ReimbursementCalculation/assets/96840701/c92aa2fa-c02d-4174-9c6b-bfc2d5611d91">
+<img width="444" alt="admin" src="https://github.com/BialasPiotr/ReimbursementCalculation/assets/96840701/8fbcc3f6-29a0-44e5-b040-4cd7fa50642a">
+
 
    Open your browser and navigate to:
    - [User View](http://localhost:8000/user)
    - [Admin View](http://localhost:8000/admin)
 
-2. **Follow the Instructions on the Page**
+3. **Follow the Instructions on the Page**
 
 ---
