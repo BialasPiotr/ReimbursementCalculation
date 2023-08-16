@@ -48,8 +48,8 @@ This application allows users to submit claims for reimbursements related to bus
 
 
    Open your browser and navigate to:
-   - [User View](http://localhost:8000/user)
-   - [Admin View](http://localhost:8000/admin)
+   - User - http://localhost:8000/user
+   - Admin - http://localhost:8000/admin
 
 3. **Follow the Instructions on the Page**
 
